@@ -5,7 +5,7 @@
     "objective": "Trouver de l'eau",
     "solution": [
       {
-        "titleSolution": "En -150 avant Abdou",
+        "titleSolution": "En -150 avant l'apocalyspe",
         "imageSolution": "/images/sol1.png"
       }
     ],
@@ -42,7 +42,7 @@
     "objective": "Trouver de la nourriture",
     "solution": [
       {
-        "titleSolution": "En -100 avant Abdou",
+        "titleSolution": "En -100 l'apocalyspe",
         "imageSolution": "/images/sol2.png"
       }
     ],
@@ -79,7 +79,7 @@
     "objective": "Se réchauffer",
     "solution": [
       {
-        "titleSolution": "En -80 avant Abdou",
+        "titleSolution": "En -80 avant l'apocalyspe",
         "imageSolution": "/images/sol3.png"
       }
     ],
@@ -116,7 +116,7 @@
     "objective": "Se divertir",
     "solution": [
       {
-        "titleSolution": "En -50 avant Abdou",
+        "titleSolution": "En -50 avant l'apocalyspe",
         "imageSolution": "/images/sol4.png"
       }
     ],
